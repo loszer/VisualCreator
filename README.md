@@ -1,0 +1,2 @@
+# VisualCreator
+就像wordpress修改自身主题时，我们边看着页面，边修改，或者boostrap的可视化编辑器layoutit，即时编辑即时浏览，就像AndroidStudio或者DreamWeaver一样的“拆分窗口”的概念，如果手机上有这么一个app，我可以直接运行这个app，然后能修改自身的启动和跳转方式，添加、调整view控件，在跟客户谈的时候，可以即时“修正”出一个ui原型出来手机上的Axure，并且能导出相应的带资源工程结构
